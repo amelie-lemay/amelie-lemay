@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I%27m%20Am%C3%A9lie&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20student%20%C2%B7%20exploring%20AI,%20ML%20%26%20data%20science&descSize=18&descAlignY=58%22 alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I%27m%20Am%C3%A9lie&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20student%20%C2%B7%20exploring%20AI,%20ML%20%and%20data%20science&descSize=18&descAlignY=58" alt="banner"/>
 </p>
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">
+  <a href="www.linkedin.com/in/amelie-lemay">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
